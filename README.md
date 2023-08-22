@@ -9,7 +9,7 @@
 - 💬 Ask me about everything you want.
 - 📫 How to reach me: on this GitHub Profile.
 - ⚡ Fun fact: I'm improving my english and you will find many grammatical erros.
-  ##
+##
 
 ### REST ("Architectural concept")
 #### The REST architecture, which stands for "Representational State Transfer," is an architectural style used in the development of distributed systems, such as web applications and web services. It was introduced by Roy Fielding in his doctoral thesis in 2000 and has become a popular approach for designing APIs (Application Programming Interfaces) and online services.
