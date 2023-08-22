@@ -1,16 +1,15 @@
 ## Hi there 👋
 
 ##
-**jamersonnascimento/Learning_Readme.md** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 🔭 I’m currently working on a survey of API and REST concept.
+- 🌱 I’m currently learning backend programming. 
+- 👯 I’m looking to collaborate with everyone who wants to learn about it.
+- 🤔 I’m looking for help with everything related to fullstack.
+- 💬 Ask me about everything you want.
+- 📫 How to reach me: on this GitHub Profile.
+- ⚡ Fun fact: I'm improving my english and you will find many grammatical erros.
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+  # Hello, My name is Jamerson Nascimento! 
+ ## Welcome to my GitHub profile 👋
+ 
