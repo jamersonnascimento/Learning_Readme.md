@@ -1,4 +1,4 @@
-## Hi there 👋
+## Hi there! Below, some important informations to get started 👋
 
 ##
 - 🔭 I’m currently working on a survey of API and REST concept.
